@@ -1,3 +1,5 @@
+# Waka Ama Race Ranking System
+
 ## Installation
 
 step 1: Clone the repository
