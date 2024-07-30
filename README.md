@@ -1,5 +1,8 @@
 # Waka Ama Race Ranking System
 
+A Python tool with a graphical user interface that reads and scores Waka Ama Nationals.lif files. 
+shows the regional association winner's results. exportable to a CSV file.
+
 ## Installation
 
 step 1: Clone the repository
